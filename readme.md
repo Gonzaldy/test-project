@@ -6,3 +6,4 @@ This is a **new** project that shows how git works!
 ### This is even smaller
 
 New Change example for git status
+### Made a new change from GitHub
